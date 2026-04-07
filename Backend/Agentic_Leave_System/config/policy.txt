@@ -1,0 +1,7 @@
+1. Each employee is allowed only 20 leave days per year.
+2. Sick leave up to 3 days can be auto approved if yearly limit is not crossed.
+3. Medical emergencies are immediately approved if yearly limit is not crossed.
+4. Casual leave above 3 days requires manager review.
+5. Vacation leave above 5 days should be reviewed.
+6. If yearly leave limit is exceeded, request must be rejected.
+7. Frequent leave requests should be flagged.

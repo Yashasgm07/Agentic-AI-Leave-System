@@ -1,0 +1,22 @@
+[
+    {
+        "username": "Yash",
+        "password": "$2b$12$xTBqwBG1T48teTbj3z6DB.7gWlP/UXS.RS9Pza./FFfP5vaTQVYm6",
+        "role": "employee"
+    },
+    {
+        "username": "Admin (HR)",
+        "password": "$2b$12$lphQ5aOMsfCnjXm6y0uIGuzEsvqEZqBx1za.3XMGzBejJhGWsS8TO",
+        "role": "hr"
+    },
+    {
+        "username": "Vikas MSIS",
+        "password": "$2b$12$ryO3McDRHxA3HAYJDzngsO0O3Ly35aA9tLUL.MrK0P4AVhi1oMNSS",
+        "role": "employee"
+    },
+    {
+        "username": "Amogh",
+        "password": "$2b$12$N2DNsZLMkydbrCSNMgOA9Om2YnhbEUYdWniUPovn1PR0S7cgNkeXW",
+        "role": "employee"
+    }
+]

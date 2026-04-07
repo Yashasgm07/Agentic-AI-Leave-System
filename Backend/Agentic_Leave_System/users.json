@@ -1,0 +1,18 @@
+[
+    {
+        "username": "yash",
+        "password": "$2b$12$Ult.TEh8tz9T057e7vZyfO5yUGBDiLxvRp6Gkzxje2rsavo0K9wQ.",
+        "role": "employee"
+    },
+    {
+        "username": "admin",
+        "password": "$2b$12$ssuCWBGykBOX8fBcCv6FquGKsKJjGfMjhY8Arro4YXG1g/g1V6JfG",
+        "role": "hr"
+    },
+    
+    {
+        "username": "Athish JS",
+        "password": "$2b$12$GO9wFeg4g8jpgw3M/eLKg.Isxfimi8LKMHHizBNUrtgYPmAvozJHy",
+        "role": "employee"
+    }
+]

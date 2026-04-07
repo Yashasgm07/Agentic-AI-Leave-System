@@ -1,0 +1,102 @@
+[
+    {
+        "name": "yash",
+        "reason": "I am not feeling well headache",
+        "days": 1,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "yash",
+        "reason": "Family Function my brothers wedding",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Yash",
+        "reason": "I am extremely not feeling well",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Yash",
+        "reason": "I am attending my sister's marriage",
+        "days": 2,
+        "status": "Pending",
+        "message": "Requires manager approval",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Yash",
+        "reason": "I am going for a small trip with family ",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Yash",
+        "reason": "I am not feeling well cough and cold",
+        "from_date": "2026-01-30",
+        "to_date": "2026-02-01",
+        "days": 3,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Yash",
+        "reason": "I am going for a bike ride ",
+        "from_date": "2026-02-01",
+        "to_date": "2026-02-02",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Rahul",
+        "reason": "I am having fever and cold",
+        "from_date": "2026-01-30",
+        "to_date": "2026-02-01",
+        "days": 3,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-30"
+    },
+    {
+        "name": "Vikas MSIS",
+        "reason": "i am going for a short ride ",
+        "from_date": "2026-02-01",
+        "to_date": "2026-02-02",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-31"
+    },
+    {
+        "name": "Vikas MSIS",
+        "reason": "I am going to have fun",
+        "from_date": "2026-01-31",
+        "to_date": "2026-02-06",
+        "days": 7,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-01-31"
+    },
+    {
+        "name": "Amogh",
+        "reason": "I am having cold ",
+        "from_date": "2026-02-28",
+        "to_date": "2026-03-01",
+        "days": 2,
+        "status": "Approved",
+        "message": "Approved by AI analysis",
+        "date": "2026-02-28"
+    }
+]
