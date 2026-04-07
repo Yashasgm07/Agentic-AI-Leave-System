@@ -129,6 +129,8 @@ Agentic-AI-Leave-System/
 └── README.md
 ```
 
+### 🧠 Architecture Overview
+Frontend (React) → Backend (Flask API) → AI Agents → Data Layer (JSON)
 
 ## ✨ Features
 
