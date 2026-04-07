@@ -46,16 +46,89 @@ It integrates multiple AI agents to analyze leave requests, enforce policies, an
 
 ## 📂 Project Structure
 
-```bash
+```
 Agentic-AI-Leave-System/
 │
 ├── Backend/
+│   └── Agentic_Leave_System/
+│       │
+│       ├── agents/                  # AI agents for decision making
+│       │   ├── decision_agent.py
+│       │   ├── policy_agent.py
+│       │   ├── nlp_agent.py
+│       │   └── email_agent.py
+│       │
+│       ├── memory/                  # Data storage layer (JSON-based)
+│       │   ├── memory_store.py
+│       │   ├── user_store.py
+│       │   ├── notification_store.py
+│       │   ├── users.json
+│       │   ├── leave_history.json
+│       │   └── notifications.json
+│       │
+│       ├── config/                  # Configuration files
+│       │   └── policy.txt
+│       │
+│       ├── api.py                   # API route definitions
+│       ├── main.py                  # Flask app entry point
+│       ├── users.json               # Initial user data
+│       └── leave_history.json       # Leave records
+│
 ├── Frontend/
-├── screenshots/
+│   └── agentic-leave-frontend/
+│       │
+│       ├── public/                  # Static assets
+│       ├── src/
+│       │   │
+│       │   ├── components/          # Reusable UI components
+│       │   │   ├── Header.jsx
+│       │   │   ├── Sidebar.jsx
+│       │   │   ├── Layout.jsx
+│       │   │   └── PrivateRoute.jsx
+│       │   │
+│       │   ├── pages/               # Application pages
+│       │   │   ├── Login.jsx
+│       │   │   ├── Register.jsx
+│       │   │   ├── Dashboard.jsx
+│       │   │   ├── ApplyLeave.jsx
+│       │   │   ├── History.jsx
+│       │   │   ├── Notifications.jsx
+│       │   │   ├── Analytics.jsx
+│       │   │   └── Result.jsx
+│       │   │
+│       │   ├── services/            # API and authentication services
+│       │   │   ├── api.js
+│       │   │   └── auth.js
+│       │   │
+│       │   ├── utils/               # Utility functions
+│       │   │   └── storage.js
+│       │   │
+│       │   ├── App.jsx              # Main React component
+│       │   ├── main.jsx             # Entry point
+│       │   └── index.css            # Global styles
+│       │
+│       ├── package.json
+│       ├── vite.config.js
+│       └── tailwind.config.js
+│
+├── screenshots/                     # UI screenshots for README
+│   ├── Employee/
+│   │   ├── emp-login.png
+│   │   ├── emp-dashboard.png
+│   │   ├── emp-apply.png
+│   │   └── emp-history.png
+│   │
+│   └── HR/
+│       ├── hr-login.png
+│       ├── hr-dashboard.png
+│       ├── hr-records.png
+│       ├── hr-notifications.png
+│       └── hr-analytics.png
+│
+├── .gitignore
 └── README.md
 ```
 
----
 
 ## ✨ Features
 
