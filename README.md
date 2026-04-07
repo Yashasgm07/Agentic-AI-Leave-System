@@ -138,44 +138,34 @@ npm run dev
 ## 👨‍💼 Employee Panel
 
 ### 🔐 Login Page
-
-![Employee Login](./screenshots/emp-login.png)
+![Employee Login](./screenshots/Employee/emp-login.png)
 
 ### 📊 Dashboard
-
-![Employee Dashboard](./screenshots/emp-dashboard.png)
+![Employee Dashboard](./screenshots/Employee/emp-dashboard.png)
 
 ### 📝 Apply Leave
-
-![Apply Leave](./screenshots/emp-apply.png)
+![Apply Leave](./screenshots/Employee/emp-apply.png)
 
 ### 📜 Leave History
-
-![Employee History](./screenshots/emp-history.png)
-
+![Employee History](./screenshots/Employee/emp-history.png)
 ---
 
 ## 🧑‍💼 HR/Admin Panel
 
 ### 🔐 HR Login
-
-![HR Login](./screenshots/hr-login.png)
+![HR Login](./screenshots/HR/hr-login.png)
 
 ### 📊 HR Dashboard
-
-![HR Dashboard](./screenshots/hr-dashboard.png)
+![HR Dashboard](./screenshots/HR/hr-dashboard.png)
 
 ### 📜 All Records
-
-![HR Records](./screenshots/hr-records.png)
+![HR Records](./screenshots/HR/hr-records.png)
 
 ### 🔔 Notifications
-
-![HR Notifications](./screenshots/hr-notifications.png)
+![HR Notifications](./screenshots/HR/hr-notifications.png)
 
 ### 📈 Analytics
-
-![HR Analytics](./screenshots/hr-analytics.png)
+![HR Analytics](./screenshots/HR/hr-analytics.png)
 
 ---
 
